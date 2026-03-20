@@ -1,0 +1,1 @@
+Skin Disease Identification from mobile images
