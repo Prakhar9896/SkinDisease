@@ -1,0 +1,135 @@
+Run timestamp: 2026-04-11T19:17:55.547435
+
+Fitzpatrick final count: 3632
+DermNet final count: 12994
+
+Class distribution table
+unified_label
+ECZEMA       3333
+PSORIASIS    2318
+BCC          1927
+BKL          1766
+TINEA        1625
+FUNGAL       1301
+VASC         1198
+MEL           937
+VITILIGO      823
+URTICARIA     488
+NEV           370
+SCC           348
+AK            136
+DF             56
+
+FST distribution table
+fst_group
+0    12994
+1      851
+2     1319
+3      677
+4      477
+5      208
+6      100
+
+Failed Fitzpatrick download URLs
+None (local ZIP mode)
+
+UNKNOWN labels excluded (Fitzpatrick)
+acanthosis nigricans
+acne
+acne vulgaris
+acquired autoimmune bullous diseaseherpes gestationis
+aplasia cutis
+behcets disease
+calcinosis cutis
+cheilitis
+dariers disease
+dermatomyositis
+disseminated actinic porokeratosis
+drug eruption
+drug induced pigmentary changes
+ehlers danlos syndrome
+epidermolysis bullosa
+erythema annulare centrifigum
+erythema elevatum diutinum
+erythema multiforme
+erythema nodosum
+fixed eruptions
+folliculitis
+fordyce spots
+granuloma annulare
+granuloma pyogenic
+hailey hailey disease
+hidradenitis
+ichthyosis vulgaris
+incontinentia pigmenti
+juvenile xanthogranuloma
+kaposi sarcoma
+keloid
+keratosis pilaris
+langerhans cell histiocytosis
+lentigo maligna
+lichen amyloidosis
+lichen planus
+lichen simplex
+livedo reticularis
+lupus erythematosus
+lupus subacute
+lyme disease
+milia
+mucinosis
+mucous cyst
+mycosis fungoides
+myiasis
+naevus comedonicus
+necrobiosis lipoidica
+nematode infection
+neurofibromatosis
+neurotic excoriations
+neutrophilic dermatoses
+papilomatosis confluentes and reticulate
+paronychia
+pediculosis lids
+photodermatoses
+pilar cyst
+pilomatricoma
+pityriasis lichenoides chronica
+pityriasis rosea
+pityriasis rubra pilaris
+porokeratosis actinic
+porokeratosis of mibelli
+porphyria
+port wine stain
+prurigo nodularis
+pyogenic granuloma
+rhinophyma
+rosacea
+sarcoidosis
+scabies
+scleroderma
+scleromyxedema
+stasis edema
+stevens johnson syndrome
+striae
+sun damaged skin
+syringoma
+telangiectases
+tick bite
+tuberous sclerosis
+tungiasis
+xanthomas
+xeroderma pigmentosum
+
+UNKNOWN labels excluded (DermNet)
+Acne and Rosacea Photos
+Bullous Disease Photos
+Cellulitis Impetigo and other Bacterial Infections
+Exanthems and Drug Eruptions
+Hair Loss Photos Alopecia and other Hair Diseases
+Herpes HPV and other STDs Photos
+Lupus and other Connective Tissue diseases
+Scabies Lyme Disease and other Infestations and Bites
+Systemic Disease
+Warts Molluscum and other Viral Infections
+
+Classes with < 50 samples (warnings)
+None
